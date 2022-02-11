@@ -1,0 +1,16 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\Creat and delete a directory Testdir.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\Creat and delete a directory Testdir.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\Creat and delete a directory Testdir.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\Creat and delete a directory Testdir.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\Creat and delete a directory Testdir.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\ref\Creat and delete a directory Testdir.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\bin\Debug\net5.0\Creat and delete a directory Testdir.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\ref\Creat and delete a directory Testdir.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Creat and delete a directory Testdir\Creat and delete a directory Testdir\obj\Debug\net5.0\Creat and delete a directory Testdir.genruntimeconfig.cache

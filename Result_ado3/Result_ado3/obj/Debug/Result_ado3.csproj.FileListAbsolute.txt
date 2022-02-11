@@ -1,0 +1,10 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\bin\Debug\Result_ado3.exe.config
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\bin\Debug\Result_ado3.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\bin\Debug\Result_ado3.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.Form1.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.Properties.Resources.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.csproj.GenerateResource.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Result_ado3\Result_ado3\obj\Debug\Result_ado3.pdb

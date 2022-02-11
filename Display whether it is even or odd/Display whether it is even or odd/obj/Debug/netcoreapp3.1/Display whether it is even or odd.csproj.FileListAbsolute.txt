@@ -1,0 +1,13 @@
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\bin\Debug\netcoreapp3.1\Display whether it is even or odd.exe
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\bin\Debug\netcoreapp3.1\Display whether it is even or odd.deps.json
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\bin\Debug\netcoreapp3.1\Display whether it is even or odd.runtimeconfig.json
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\bin\Debug\netcoreapp3.1\Display whether it is even or odd.runtimeconfig.dev.json
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\bin\Debug\netcoreapp3.1\Display whether it is even or odd.dll
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\bin\Debug\netcoreapp3.1\Display whether it is even or odd.pdb
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.csprojAssemblyReference.cache
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.AssemblyInfoInputs.cache
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.AssemblyInfo.cs
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.csproj.CoreCompileInputs.cache
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.dll
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.pdb
+C:\Users\Phan Nhat Tan\source\repos\Display whether it is even or odd\Display whether it is even or odd\obj\Debug\netcoreapp3.1\Display whether it is even or odd.genruntimeconfig.cache

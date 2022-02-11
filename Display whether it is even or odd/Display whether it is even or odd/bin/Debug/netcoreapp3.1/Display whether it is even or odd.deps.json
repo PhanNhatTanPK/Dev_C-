@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Display whether it is even or odd/1.0.0": {
+        "runtime": {
+          "Display whether it is even or odd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Display whether it is even or odd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

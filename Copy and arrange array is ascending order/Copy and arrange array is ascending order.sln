@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy and arrange array is ascending order", "Copy and arrange array is ascending order\Copy and arrange array is ascending order.csproj", "{4C04691A-D6A7-4DD3-A813-8162858A2882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C04691A-D6A7-4DD3-A813-8162858A2882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C04691A-D6A7-4DD3-A813-8162858A2882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C04691A-D6A7-4DD3-A813-8162858A2882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C04691A-D6A7-4DD3-A813-8162858A2882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8136C7-AB00-422A-B20D-612C0347547A}
+	EndGlobalSection
+EndGlobal

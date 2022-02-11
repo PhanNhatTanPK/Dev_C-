@@ -1,0 +1,16 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\Demonstrate polymorphism_key word base.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\Demonstrate polymorphism_key word base.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\Demonstrate polymorphism_key word base.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\Demonstrate polymorphism_key word base.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\Demonstrate polymorphism_key word base.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\ref\Demonstrate polymorphism_key word base.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\bin\Debug\net5.0\Demonstrate polymorphism_key word base.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\ref\Demonstrate polymorphism_key word base.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Demonstrate polymorphism_key word base\Demonstrate polymorphism_key word base\obj\Debug\net5.0\Demonstrate polymorphism_key word base.genruntimeconfig.cache

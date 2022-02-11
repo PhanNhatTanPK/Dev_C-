@@ -1,0 +1,11 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\bin\Debug\WinForm3.exe.config
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\bin\Debug\WinForm3.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\bin\Debug\WinForm3.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.Form1.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.Form2.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.Properties.Resources.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.csproj.GenerateResource.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm3\WinForm3\obj\Debug\WinForm3.pdb

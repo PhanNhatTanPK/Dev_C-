@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Accept and display a name/1.0.0": {
+        "runtime": {
+          "Accept and display a name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accept and display a name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Creat and delete a directory Testdir/1.0.0": {
+        "runtime": {
+          "Creat and delete a directory Testdir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creat and delete a directory Testdir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\bin\Debug\netcoreapp3.1\The first 10 multiples of 5.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\bin\Debug\netcoreapp3.1\The first 10 multiples of 5.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\bin\Debug\netcoreapp3.1\The first 10 multiples of 5.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\bin\Debug\netcoreapp3.1\The first 10 multiples of 5.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\bin\Debug\netcoreapp3.1\The first 10 multiples of 5.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\bin\Debug\netcoreapp3.1\The first 10 multiples of 5.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\The first 10 multiples of 5\The first 10 multiples of 5\obj\Debug\netcoreapp3.1\The first 10 multiples of 5.genruntimeconfig.cache

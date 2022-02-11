@@ -1,0 +1,16 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\abstract with color.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\abstract with color.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\abstract with color.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\abstract with color.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\abstract with color.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\ref\abstract with color.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\bin\Debug\net5.0\abstract with color.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\ref\abstract with color.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\abstract with color\abstract with color\obj\Debug\net5.0\abstract with color.genruntimeconfig.cache

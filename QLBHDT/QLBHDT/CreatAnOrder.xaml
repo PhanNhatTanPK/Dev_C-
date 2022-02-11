@@ -1,0 +1,175 @@
+﻿<Window x:Class="QLBHDT.CreatAnOrder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLBHDT"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        Icon="/Resource/logo-shop-dien-thoai.jpg"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        DataContext="{StaticResource CreatAnOrderVM}"
+        Title="CREAT AN ORDER" Height="600" Width="500">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="509*"/>
+        </Grid.RowDefinitions>
+        <Image Source="/Resource/nendoc.jpg" Grid.RowSpan="2" RenderTransformOrigin="0.5,0.5" />
+
+        <ToolBar
+                Name="toolbarOrder"
+                Style="{DynamicResource MaterialDesignToolBar}"
+                ClipToBounds="False" Margin="0,0,0,507" Grid.RowSpan="2" >
+            <Button
+                      Name="btnAddOrder"
+                      Command="{Binding AddOrderCommand}"
+                      ToolTip="Tạo"
+                      Content="{materialDesign:PackIcon Kind=CartPlus}" Height="60" Margin="0,4,0,8" Width="55" />
+            <Button
+                      Name="btnClear"
+                      Command="{Binding ClearOrderCommand}"
+                      ToolTip="Làm mới"
+                      Content="{materialDesign:PackIcon Kind=Autorenew}" />
+            <Button
+                      Name="btnOrderlist"
+                      Command="{Binding OrderListCommand}"
+                      ToolTip="Danh sách hóa đơn"
+                      Content="{materialDesign:PackIcon Kind=ClipboardListOutline}" />
+        </ToolBar>
+
+        <materialDesign:Card 
+            x:Name="Print"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Height="500" Margin="45,5,47,4"  
+            Width="400" Grid.Row="1"  >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="253*"/>
+                    <RowDefinition Height="60*"/>
+                    <RowDefinition Height="187*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="0">
+                        <ComboBox
+                            ToolTip="Chọn mã khách hàng"
+                            Name="cbCusCode"
+                            Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                            materialDesign:HintAssist.Hint="Customer Code"
+                            Width="180"  Height="50"  
+                            ItemsSource="{Binding CustomerList}"
+                            SelectedItem="{ Binding SelectedCusCode }" Margin="10,10,10,193"
+                            DisplayMemberPath="MaKH">
+                        </ComboBox>
+
+                        <TextBox
+                              Text="{Binding Address}"
+                              ToolTip="Địa chỉ"
+                              Name="txtAddress"
+                              materialDesign:HintAssist.Hint="Address"
+                              Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                              Margin="10,100,10,103"
+                              Height="45"
+ 
+                              />
+                        <TextBox
+                            Text="{Binding PhoneNumber}"
+                            ToolTip="Số điện thoại"
+                            Name="txtPhoneNumber"
+                            materialDesign:HintAssist.Hint="Phone Number"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                            Margin="10,190,10,13"
+                            Height="45"/>
+
+                    </Grid>
+
+                    <Grid Grid.Column="1">
+                        <ComboBox
+                            ToolTip="Chọn mã sản phẩm"
+                            Name="cbProCode"        
+                            Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                            materialDesign:HintAssist.Hint="Product Code"
+                            Width="180" Height="50" 
+                            ItemsSource="{Binding ProductList}"
+                            SelectedItem="{Binding SelectedProCode}" Margin="10,10,10,193"
+                            DisplayMemberPath="MaSP">
+                        </ComboBox>
+
+                        <TextBox
+                            Text="{Binding Quantity}"
+                            Name="txtQuantity"
+                            materialDesign:HintAssist.Hint="Quantity"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                            ToolTip="Số lượng" Margin="10,100,10,103" Height="45"
+                              />
+                        <TextBox
+                            Text="{Binding Date, StringFormat='MM/dd/yyyy'}"
+                            Name="txtCreatDate"
+                            materialDesign:HintAssist.Hint="CreatDate"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                            ToolTip="Enter Month/Day/Year" Margin="10,192,10,16" Height="45"
+                              /> 
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Row="1">
+                    <TextBox
+                        Text="{Binding OrderCode}"
+                        Name="txtOrderCode"
+                        materialDesign:HintAssist.Hint="Order Code"
+                        Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                        ToolTip="Mã đơn hàng" Margin="100 0 100 0" Width="180" Height="45" />
+                </Grid>
+
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox
+                        Text="{Binding Total}"
+                        ToolTip="Tổng tiền"
+                        Name="txtTotal"
+                        Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                        materialDesign:HintAssist.Hint="Total"
+                        Margin="116,36,114,101" Grid.ColumnSpan="2" 
+                        Height="50"
+                        Width="170"/>
+                    <TextBox
+                        Text="{Binding Cash}"
+                        ToolTip="Tiền nhận"
+                        Name="txtCash"
+                        Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                        materialDesign:HintAssist.Hint="Cash" 
+                        Margin="15,114,214,23" Grid.ColumnSpan="2" 
+                        Height="50"
+                        Width="170"/>
+                    <TextBox 
+                        Text="{Binding Change}"
+                        ToolTip="Tiền trả lại"
+                        Name="txtChange"
+                        Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                        materialDesign:HintAssist.Hint="Change" 
+                        Margin="214,114,16,23" Grid.ColumnSpan="2" 
+                        Height="50"
+                        Width="170"/>
+                </Grid>
+
+            </Grid>
+        </materialDesign:Card>
+        <materialDesign:Card Content="Card" HorizontalAlignment="Left" Margin="585,70,-193,0" Grid.Row="1" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>

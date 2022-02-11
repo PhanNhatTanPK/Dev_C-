@@ -1,0 +1,11 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\bin\Debug\WinForm 1.exe.config
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\bin\Debug\WinForm 1.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\bin\Debug\WinForm 1.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm 1.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm_1.Form1.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm_1.Form2.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm_1.Properties.Resources.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm 1.csproj.GenerateResource.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm 1.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm 1.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\WinForm 1\WinForm 1\obj\Debug\WinForm 1.pdb

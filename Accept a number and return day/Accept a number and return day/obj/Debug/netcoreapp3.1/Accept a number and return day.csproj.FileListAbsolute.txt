@@ -1,0 +1,13 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\bin\Debug\netcoreapp3.1\Accept a number and return day.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\bin\Debug\netcoreapp3.1\Accept a number and return day.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\bin\Debug\netcoreapp3.1\Accept a number and return day.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\bin\Debug\netcoreapp3.1\Accept a number and return day.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\bin\Debug\netcoreapp3.1\Accept a number and return day.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\bin\Debug\netcoreapp3.1\Accept a number and return day.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept a number and return day\Accept a number and return day\obj\Debug\netcoreapp3.1\Accept a number and return day.genruntimeconfig.cache

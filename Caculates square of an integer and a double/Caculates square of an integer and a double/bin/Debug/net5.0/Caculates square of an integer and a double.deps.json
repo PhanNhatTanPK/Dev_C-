@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Caculates square of an integer and a double/1.0.0": {
+        "runtime": {
+          "Caculates square of an integer and a double.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caculates square of an integer and a double/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

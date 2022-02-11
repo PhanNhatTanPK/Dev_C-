@@ -1,0 +1,16 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\Copy and arrange array is ascending order.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\Copy and arrange array is ascending order.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\Copy and arrange array is ascending order.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\Copy and arrange array is ascending order.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\Copy and arrange array is ascending order.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\ref\Copy and arrange array is ascending order.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\bin\Debug\net5.0\Copy and arrange array is ascending order.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\ref\Copy and arrange array is ascending order.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Copy and arrange array is ascending order\Copy and arrange array is ascending order\obj\Debug\net5.0\Copy and arrange array is ascending order.genruntimeconfig.cache

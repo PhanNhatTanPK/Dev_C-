@@ -1,0 +1,155 @@
+﻿<Window x:Class="QLBHDT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLBHDT"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        Icon="/Resource/logo-shop-dien-thoai.jpg"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        DataContext="{StaticResource MainVM}"
+        Title="MAIN INTERFACE" Height="500" Width="800"
+        Name="MainInterface">
+
+        <i:Interaction.Triggers>
+            <i:EventTrigger EventName="Loaded">
+                <i:InvokeCommandAction 
+                    Command="{Binding LoadedWindownCommand}"                   
+                    CommandParameter="{Binding ElementName=MainInterface}"/>
+            </i:EventTrigger>
+        </i:Interaction.Triggers>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Image Source="/Resource/Background.png"
+                       RenderTransformOrigin="0.5 0.5"
+                       Grid.RowSpan="2" Margin="-11,0,-11,-26"/>
+
+            <materialDesign:PopupBox 
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    PlacementMode="BottomAndAlignCentres"  
+                    ToggleCheckedContentCommand="{Binding FloatingActionDemoCommand}"  
+                    ToggleCheckedContentCommandParameter="wowsers" 
+                    Name="popbox"
+                    Margin="4,2,0,186">
+                <StackPanel>
+                    <Button
+                            Command="{Binding ChangePasswordCommand}"   
+                            Name="btnChangePass"
+                            ToolTip="Đổi mật khẩu"                         
+                            Content="{materialDesign:PackIcon Kind=LockReset}" />
+                    <Button 
+                            Command="{Binding LogoutCommand}"
+                            Name="btnExit"
+                            ToolTip="Đăng xuất"     
+                            Content="{materialDesign:PackIcon Kind=Logout}"/>
+                </StackPanel>
+            </materialDesign:PopupBox>
+
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button 
+                        Command="{Binding ListOfProductCommand }"
+                        Grid.Column="0"
+                        ToolTip="Danh sách sản phẩm"
+                        Background="Bisque"
+                        Height="190"
+                        Width="190"
+                        Name="btnListOfProduct"
+                        Style="{StaticResource MaterialDesignFloatingActionAccentButton}" 
+                        materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+                        materialDesign:ButtonProgressAssist.Value="50" Margin="74,18,74,17" Grid.RowSpan="2"  >
+                    <Image
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Grid.Column="0"
+                        Height="150"
+                        Width="150"
+                        Source="/Resource/xe day hang.png" Grid.RowSpan="2" />
+                </Button>
+                <Button 
+                        Command="{Binding AddProductCommand }"
+                        Grid.Column="1"
+                        ToolTip = "Thêm sản phẩm"
+                        Background = "Bisque"
+                        Height="190"
+                        Width="190"
+                        Name="btnAddProduct"
+                        Style="{StaticResource MaterialDesignFloatingActionAccentButton}" 
+                        materialDesign:ButtonProgressAssist.IsIndicatorVisible = "True"
+                        materialDesign:ButtonProgressAssist.Value = "500" Margin = "74,18,74,17" Grid.RowSpan="2" >
+                    <Image   
+                            Margin="20 0 0 0"
+                            Width = "152"
+                            Height = "150"
+                            Source="/Resource/addproduct.png" />
+                </Button>
+            </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+                <Button  
+                        Command="{Binding CreatAnOrderCommand }"
+                        Grid.Column="1"
+                        ToolTip="Tạo đơn hàng"
+                        Height="190"
+                        Width="190"
+                        Background="Bisque"
+                        Name="btnCreatAnOrder"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}" 
+                        materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"  
+                        materialDesign:ButtonProgressAssist.Value="75" >
+                    <Image 
+                            Margin="20 0 0 0"                   
+                            Width = "150"
+                            Height = "150"
+                            Source="/Resource/don hang.png" />
+                </Button>
+                <Button 
+                        Command="{Binding UserManagerCommand }"
+                        Grid.Column="0"
+                        ToolTip="Quản lý tài khoản"
+                        Height="190"
+                        Width="190"
+                        Background="Bisque"
+                        Name="btnUserManager"
+                        Style="{StaticResource MaterialDesignFloatingActionButton}"                  
+                        BorderBrush="#81d4fa"  
+                        Foreground="#DD000000" 
+                        materialDesign:ButtonProgressAssist.IsIndicatorVisible="True" 
+                        materialDesign:ButtonProgressAssist.Value="25" 
+                        materialDesign:ButtonProgressAssist.IndicatorForeground="#e65100" 
+                        materialDesign:ButtonProgressAssist.IndicatorBackground="#ffcc80"  >
+                    <Image 
+                            Margin="15 0 0 0"
+                            Width = "120"
+                            Height = "130"
+                            Source="/Resource/adduser.png" />
+            </Button>
+        </Grid>
+    </Grid>  
+</Window>

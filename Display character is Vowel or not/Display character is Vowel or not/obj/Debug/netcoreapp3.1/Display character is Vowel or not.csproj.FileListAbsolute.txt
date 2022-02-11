@@ -1,0 +1,12 @@
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\bin\Debug\netcoreapp3.1\Display character is Vowel or not.exe
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\bin\Debug\netcoreapp3.1\Display character is Vowel or not.deps.json
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\bin\Debug\netcoreapp3.1\Display character is Vowel or not.runtimeconfig.json
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\bin\Debug\netcoreapp3.1\Display character is Vowel or not.runtimeconfig.dev.json
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\bin\Debug\netcoreapp3.1\Display character is Vowel or not.dll
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\bin\Debug\netcoreapp3.1\Display character is Vowel or not.pdb
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\obj\Debug\netcoreapp3.1\Display character is Vowel or not.AssemblyInfoInputs.cache
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\obj\Debug\netcoreapp3.1\Display character is Vowel or not.AssemblyInfo.cs
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\obj\Debug\netcoreapp3.1\Display character is Vowel or not.csproj.CoreCompileInputs.cache
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\obj\Debug\netcoreapp3.1\Display character is Vowel or not.dll
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\obj\Debug\netcoreapp3.1\Display character is Vowel or not.pdb
+C:\Users\Phan Nhat Tan\source\repos\Display character is Vowel or not\Display character is Vowel or not\obj\Debug\netcoreapp3.1\Display character is Vowel or not.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\Caculate the salary.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\Caculate the salary.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\Caculate the salary.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\Caculate the salary.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\Caculate the salary.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\ref\Caculate the salary.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\bin\Debug\net5.0\Caculate the salary.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\ref\Caculate the salary.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Caculate the salary\Caculate the salary\obj\Debug\net5.0\Caculate the salary.genruntimeconfig.cache

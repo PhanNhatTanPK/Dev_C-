@@ -1,0 +1,13 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\bin\Debug\netcoreapp3.1\Find the square of 10.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\bin\Debug\netcoreapp3.1\Find the square of 10.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\bin\Debug\netcoreapp3.1\Find the square of 10.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\bin\Debug\netcoreapp3.1\Find the square of 10.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\bin\Debug\netcoreapp3.1\Find the square of 10.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\bin\Debug\netcoreapp3.1\Find the square of 10.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Find the square of 10\Find the square of 10\obj\Debug\netcoreapp3.1\Find the square of 10.genruntimeconfig.cache

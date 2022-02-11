@@ -1,0 +1,13 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.genruntimeconfig.cache

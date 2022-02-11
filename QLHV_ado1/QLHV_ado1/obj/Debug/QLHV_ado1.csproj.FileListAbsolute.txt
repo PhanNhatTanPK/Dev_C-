@@ -1,0 +1,10 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\bin\Debug\QLHV_ado1.exe.config
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\bin\Debug\QLHV_ado1.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\bin\Debug\QLHV_ado1.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.Login.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.Properties.Resources.resources
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.csproj.GenerateResource.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\QLHV_ado1\QLHV_ado1\obj\Debug\QLHV_ado1.pdb

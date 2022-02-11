@@ -1,0 +1,13 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\bin\Debug\netcoreapp3.1\Accept and display a name.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\bin\Debug\netcoreapp3.1\Accept and display a name.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\bin\Debug\netcoreapp3.1\Accept and display a name.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\bin\Debug\netcoreapp3.1\Accept and display a name.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\bin\Debug\netcoreapp3.1\Accept and display a name.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\bin\Debug\netcoreapp3.1\Accept and display a name.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\Accept and display a name\Accept and display a name\obj\Debug\netcoreapp3.1\Accept and display a name.genruntimeconfig.cache

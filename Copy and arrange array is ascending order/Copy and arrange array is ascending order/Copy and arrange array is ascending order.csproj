@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Copy_and_arrange_array_is_ascending_order</RootNamespace>
+  </PropertyGroup>
+
+</Project>

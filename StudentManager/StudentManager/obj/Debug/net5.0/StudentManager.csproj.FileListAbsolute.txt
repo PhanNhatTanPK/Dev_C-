@@ -1,0 +1,16 @@
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\StudentManager.exe
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\StudentManager.deps.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\StudentManager.runtimeconfig.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\StudentManager.runtimeconfig.dev.json
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\StudentManager.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\ref\StudentManager.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\bin\Debug\net5.0\StudentManager.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.csprojAssemblyReference.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.AssemblyInfoInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.AssemblyInfo.cs
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.csproj.CoreCompileInputs.cache
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\ref\StudentManager.dll
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.pdb
+F:\HOC\Lap trinh ung dung Desktop\Bai thuc hanh\StudentManager\StudentManager\obj\Debug\net5.0\StudentManager.genruntimeconfig.cache

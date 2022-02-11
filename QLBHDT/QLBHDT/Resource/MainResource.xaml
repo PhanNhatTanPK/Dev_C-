@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:QLBHDT.ViewModel">
+                    
+    <viewmodel:MainViewModel x:Key="MainVM"></viewmodel:MainViewModel>
+    <viewmodel:LoginViewModel x:Key="LoginVM"></viewmodel:LoginViewModel>
+    <viewmodel:ListOfProViewModel x:Key="ListOfProVM"></viewmodel:ListOfProViewModel>
+    <viewmodel:AddProViewModel x:Key="AddProVM"></viewmodel:AddProViewModel>
+    <viewmodel:UserManagerViewModel x:Key="UserManagerVM"></viewmodel:UserManagerViewModel>
+    <viewmodel:CreatAnOrderViewModel x:Key="CreatAnOrderVM"></viewmodel:CreatAnOrderViewModel>
+    <viewmodel:OrderListViewModel x:Key="OrderListVM"></viewmodel:OrderListViewModel>
+    <viewmodel:ChangePassViewModel x:Key="ChangePassVM"></viewmodel:ChangePassViewModel>
+</ResourceDictionary>
